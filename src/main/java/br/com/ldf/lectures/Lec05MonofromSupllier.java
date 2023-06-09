@@ -1,4 +1,4 @@
-package br.com.ldf;
+package br.com.ldf.lectures;
 
 import br.com.ldf.util.Util;
 import reactor.core.publisher.Mono;
@@ -6,7 +6,7 @@ import reactor.core.publisher.Mono;
 import java.util.concurrent.Callable;
 import java.util.function.Supplier;
 
-public class Leco05MonofromSupllier {
+public class Lec05MonofromSupllier {
 
     public static void main(String[] args) {
         // use just only when you have data already

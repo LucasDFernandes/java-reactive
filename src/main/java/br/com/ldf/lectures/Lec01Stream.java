@@ -1,4 +1,4 @@
-package br.com.ldf;
+package br.com.ldf.lectures;
 
 import java.util.stream.Stream;
 

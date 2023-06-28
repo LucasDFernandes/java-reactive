@@ -1,4 +1,4 @@
-package br.com.ldf.assignment;
+package br.com.ldf.assignment.mono;
 
 import reactor.core.publisher.Mono;
 

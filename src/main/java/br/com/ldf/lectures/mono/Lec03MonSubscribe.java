@@ -1,4 +1,4 @@
-package br.com.ldf.lectures;
+package br.com.ldf.lectures.mono;
 
 import br.com.ldf.util.Util;
 import reactor.core.publisher.Mono;

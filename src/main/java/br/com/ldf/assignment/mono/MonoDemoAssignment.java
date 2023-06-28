@@ -1,8 +1,8 @@
-package br.com.ldf.assignment;
+package br.com.ldf.assignment.mono;
 
 import br.com.ldf.util.Util;
 
-public class DemoAssignment {
+public class MonoDemoAssignment {
 
     public static void main(String[] args) {
         FileService.read("file1.txt")

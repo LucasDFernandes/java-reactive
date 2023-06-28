@@ -1,8 +1,7 @@
-package br.com.ldf.lectures;
+package br.com.ldf.lectures.mono;
 
 import br.com.ldf.util.Util;
 import reactor.core.publisher.Mono;
-import reactor.core.scheduler.Scheduler;
 import reactor.core.scheduler.Schedulers;
 
 public class Lec06SupplierRefactoring {

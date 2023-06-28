@@ -11,7 +11,7 @@ public class Lec03DoCallbacks {
                     System.out.println("inside create");
                     for (int index = 0; index < 5; index++) {
                         fluxSink.next(index);
-                        fluxSink.error(new RuntimeException("ops"));
+//                        fluxSink.error(new RuntimeException("ops"));
                     }
                     System.out.println("--completed");
                 })

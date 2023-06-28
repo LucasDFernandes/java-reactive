@@ -1,4 +1,4 @@
-package br.com.ldf.assignment.flux;
+package br.com.ldf.assignment.flux.sec02;
 
 import br.com.ldf.util.Util;
 import reactor.core.publisher.Flux;

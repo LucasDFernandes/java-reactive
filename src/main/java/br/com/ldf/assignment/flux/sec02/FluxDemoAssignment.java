@@ -1,4 +1,4 @@
-package br.com.ldf.assignment.flux;
+package br.com.ldf.assignment.flux.sec02;
 
 import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
